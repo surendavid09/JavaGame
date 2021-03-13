@@ -1,0 +1,1 @@
+This project renders the base for an RPG game where players can move around an interactive map.
